@@ -7,12 +7,60 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Sage</copyright>
-        <lastBuildDate>Thu, 29 Aug 2024 15:21:11 +0800</lastBuildDate><atom:link href="https://Sage-Chen.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 30 Aug 2024 13:52:17 +0800</lastBuildDate><atom:link href="https://Sage-Chen.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Unreal</title>
+        <link>https://Sage-Chen.github.io/categories/unreal/</link>
+        <pubDate>Fri, 30 Aug 2024 13:52:17 +0800</pubDate>
+        
+        <guid>https://Sage-Chen.github.io/categories/unreal/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Unity</title>
+        <link>https://Sage-Chen.github.io/categories/unity/</link>
+        <pubDate>Fri, 30 Aug 2024 13:52:03 +0800</pubDate>
+        
+        <guid>https://Sage-Chen.github.io/categories/unity/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Deigner</title>
+        <link>https://Sage-Chen.github.io/categories/deigner/</link>
+        <pubDate>Fri, 30 Aug 2024 13:51:32 +0800</pubDate>
+        
+        <guid>https://Sage-Chen.github.io/categories/deigner/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Painter</title>
+        <link>https://Sage-Chen.github.io/categories/painter/</link>
+        <pubDate>Fri, 30 Aug 2024 13:50:50 +0800</pubDate>
+        
+        <guid>https://Sage-Chen.github.io/categories/painter/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Shader</title>
         <link>https://Sage-Chen.github.io/categories/shader/</link>
-        <pubDate>Thu, 29 Aug 2024 15:21:11 +0800</pubDate>
+        <pubDate>Fri, 30 Aug 2024 13:49:53 +0800</pubDate>
         
         <guid>https://Sage-Chen.github.io/categories/shader/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Houdini</title>
+        <link>https://Sage-Chen.github.io/categories/houdini/</link>
+        <pubDate>Fri, 30 Aug 2024 13:48:32 +0800</pubDate>
+        
+        <guid>https://Sage-Chen.github.io/categories/houdini/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Project</title>
+        <link>https://Sage-Chen.github.io/categories/project/</link>
+        <pubDate>Thu, 29 Aug 2024 15:21:11 +0800</pubDate>
+        
+        <guid>https://Sage-Chen.github.io/categories/project/</guid>
         <description></description>
         </item>
         <item>
